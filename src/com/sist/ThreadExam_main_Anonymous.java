@@ -28,6 +28,7 @@ public class ThreadExam_main_Anonymous {
 						}
 						
 					}
+				
 		}).start();		// Thread(target); 생성자를 이용하였는데, 
 		                //아예 Runnable도 어나니머스로 재정의 하여 그것을 바로 인자로 넣어준 것!
 		
